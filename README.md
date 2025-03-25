@@ -53,7 +53,7 @@ This project demonstrates how **Fourier Transform (FT)** can be applied to image
 
 | Original | Compressed | Denoised |
 |----------|------------|----------|
-| ![](![](input_images/img2.jpg)) | ![](result/ft_compression/img2_result.jpg) | ![](result/ft_noise_removal/img2_result.jpg) |
+| ![](input_images/img1.jpeg) | ![](result/ft_compression/img1_result.jpg) | ![](result/ft_noise_removal/img1_result.jpg) |
 
 ---
 
