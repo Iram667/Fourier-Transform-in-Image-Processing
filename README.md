@@ -1,4 +1,4 @@
-# Fourier Transform in Image Processing 🧠🖼️
+# Fourier Transform in Image Processing 
 
 This project demonstrates how **Fourier Transform (FT)** can be applied to image processing tasks such as:
 
@@ -27,7 +27,7 @@ This project demonstrates how **Fourier Transform (FT)** can be applied to image
 
 ---
 
-## 📌 Key Features
+## Key Features
 
 ### 🔹 Fourier Transform Applications
 - **Frequency domain visualization**
@@ -49,7 +49,7 @@ This project demonstrates how **Fourier Transform (FT)** can be applied to image
 
 ---
 
-## 🖼️ Sample Results
+##  Sample Results
 
 | Original | fft_processed_image| Compressed | Denoised |
 |----------|------------|----------|------------|
@@ -57,7 +57,7 @@ This project demonstrates how **Fourier Transform (FT)** can be applied to image
 
 ---
 
-## ⚙️ How to Run
+##  How to Run
 
 1. Clone the repository:
 
@@ -75,7 +75,7 @@ pip install numpy opencv-python matplotlib
 ```bash
 python fft_image_processing.py
 ```
-## 📚 Concepts Covered
+##  Concepts Covered
 
 - Fourier Transform basics  
 - Frequency separation in images  
@@ -85,7 +85,7 @@ python fft_image_processing.py
 - Visualizing phase and magnitude plots  
 
 
-## 🤝 Acknowledgements
+##  Acknowledgements
 
 This project was part of a Mathematics + Computer Vision integration to explore frequency domain techniques using both theory and implementation.
 
