@@ -12,7 +12,7 @@ output_path = os.path.join(base_folder, sub_folder)
 os.makedirs(output_path, exist_ok=True)  # Ensure both folders exist
 output_filepath = os.path.join(output_path, output_filename)
 
-img = cv2.imread("input_images/img3.jpg", 0)
+img = cv2.imread("input_images/image 3.PNG", 0)
 
 # Apply FFT
 fft_image, m, n = fft2(img)

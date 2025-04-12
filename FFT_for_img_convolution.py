@@ -8,7 +8,7 @@ import os
 
 base_folder = "result"
 sub_folder = "fft_result"
-output_filename = "img1.jpg"
+output_filename = "img3.jpg"
 output_path = os.path.join(base_folder, sub_folder)
 os.makedirs(output_path, exist_ok=True)
 
@@ -16,7 +16,7 @@ os.makedirs(output_path, exist_ok=True)
 output_filepath = os.path.join(output_path, output_filename)
 
 # Load grayscale image
-img_c1 = cv2.imread("input_images/img1.jpeg", 0)
+img_c1 = cv2.imread("input_images/image 3.PNG", 0)
 
 # Apply FFT using custom function
 img_c2, m, n = fft2(img_c1)  # Compute FFT
